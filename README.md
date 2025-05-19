@@ -40,6 +40,9 @@ npm start
 
 ![image](https://github.com/user-attachments/assets/f04732ea-d440-46ec-ae4c-f2457e0794a3)
 
+### Atencion
+abrir vscode en la carpeta lenguaje no en la carpeta final, por lo contrario no mostrará el arbol ya que vscode tomará el lauch.json de la carpeta final el cual no esta configurado para mostrar el parser tree.
+
 ## Comentarios adiccionales
 1. No es necesario el archivo input.txt es posible eliminarlo y el progrma seguira funcionando.
 
